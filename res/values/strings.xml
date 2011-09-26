@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestAutoApiKeySwitch</string>
+    <string name="mapkey_debug">0P4FfRNWhQ7b80CRtq4hxkYWa1ZlwDK2D0JDvMw</string><!-- kanji debug  -->
+    <string name="mapkey_release">0Y_VNXj7CxhtaHKhqxMinXYScJUzl133u8oQOpA</string><!-- Tonchi release -->
+</resources>
